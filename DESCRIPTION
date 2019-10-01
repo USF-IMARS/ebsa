@@ -1,0 +1,4 @@
+Package: ebsa
+Title: CBD EBSA Biodiversity Indicies.
+Version: 0.0.2
+Imports: rnaturalearthdata, rnaturalearth, dplyr, dggridR, gsl, ggpubr, viridis, rgeos
